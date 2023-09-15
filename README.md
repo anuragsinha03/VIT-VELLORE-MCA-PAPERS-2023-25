@@ -3,3 +3,5 @@ This repository contains VIT Vellore MCA PYQ papers which includes semester-wise
 1. Continuous Assessment Test - I
 2. Continuous Assessment Test - II
 3. Final Assessment Test
+
+Fork or star the repository  :D
